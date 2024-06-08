@@ -1,0 +1,8 @@
+.topnav{
+    background-color: blueviolet;
+    width: 100%;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
